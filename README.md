@@ -46,7 +46,7 @@ with data and machine learning.
 
 ## Projects
 
-- **[Runffee](link)** — Running app with Strava API integration. Angular + Spring Boot + PostgreSQL.
+- **[Runffee](https://github.com/EquipoRunffee/Runffee)** — Running app with Strava API integration. Angular + Spring Boot + PostgreSQL.
 - **[Padel Fantasy](link)** — Fantasy platform with live FIP data from 320 real players.
 - **[Portfolio](https://anderolivos.com)** — anderolivos.com
 
