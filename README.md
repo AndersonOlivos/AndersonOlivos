@@ -1,19 +1,33 @@
-👋 Hi there! I'm a junior programmer with a background in Network Systems Administration and currently studying Web Application Development. My passion lies in backend development 💻, and I'm always eager to learn and improve. Right now, I'm diving into Python 🐍 to broaden my toolkit and take on new challenges, as I believe it's a versatile language used in many industries.
+# Hey, I'm Anderson 👋
 
-🌟 Languages I've learned:
+Web developer with a background in IT systems, currently wrapping up an Erasmus+ 
+internship at Buinsoft (Prague) where I build software using AI agents, LLMs, and 
+automation platforms.
 
-- HTML & CSS 🎨
-- JavaScript ⚙️
-- PHP 🐘
-- MySQL 🗄️
+Also in my first year of a B.Sc. in Data Science at UOC — combining development 
+with data and machine learning.
 
-🔧 What I love about development:
-I’m fascinated by automation, streamlining processes to save time and boost efficiency. I also enjoy designing and managing websites, where I can add user-friendly tools with an attractive design that benefits the final user.
+---
 
-📂 Projects & Goals:
-I have several personal projects that I’m refining before sharing, aiming to keep my profile organized and easy to navigate. I’m also working towards becoming a senior developer and joining a community of passionate programmers to share knowledge and ideas.
+## What I work with
 
-🤝 Collaboration:
-Although I’ve only worked with a colleague on one project so far, I’m excited to learn more about teamwork and collaborate on bigger projects in the future.
+**Languages:** Python · Java · JavaScript · TypeScript · PHP  
+**Frontend:** React · Angular · HTML5 · CSS3  
+**Backend:** Spring Boot · Django · FastAPI  
+**Databases:** PostgreSQL · MySQL · Oracle  
+**Tools:** Git · Docker · Linux · Figma  
+**AI:** Claude · OpenAI API · LangChain · Prompt Engineering  
 
-Let's connect and build something awesome together! 🚀
+---
+
+## Projects
+
+- **[Runffee](link)** — Running app with Strava API integration. Angular + Spring Boot + PostgreSQL.
+- **[Padel Fantasy](link)** — Fantasy platform with live FIP data from 320 real players.
+- **[Portfolio](https://anderolivos.com)** — anderolivos.com
+
+---
+
+## Let's connect
+
+[LinkedIn](https://linkedin.com/in/andersonolivos) · [Portfolio](https://anderolivos.com)
