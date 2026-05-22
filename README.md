@@ -47,7 +47,7 @@ with data and machine learning.
 ## Projects
 
 - **[Runffee](https://github.com/EquipoRunffee/Runffee)** — Running app with Strava API integration. Angular + Spring Boot + PostgreSQL.
-- **[Padel Fantasy](link)** — Fantasy platform with live FIP data from 320 real players.
+- **[PadelRank](https://github.com/AndersonOlivos/padelrank)** — Player ranking platform by category for padel. .
 - **[Portfolio](https://anderolivos.com)** — anderolivos.com
 
 ---
